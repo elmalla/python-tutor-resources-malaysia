@@ -98,7 +98,7 @@ For more tutorials, tips, and in-depth explanations, check out my YouTube channe
 
 ## About Your Tutor
 
-Meet Ahmed Elmalla: Malaysia's Computer Science Tutor!
+Meet Ahmed Elmalla: Malaysia's Computer Science Tutor! [Get in Touch](https://wa.me/message/SGE2FIFHJBCUC1)
 
 With over 19 years of experience and certifications from Stanford, Alberta, Pennsylvania, and California Irvine universities, Ahmed is dedicated to helping students master IGCSE & AP exams and excel in Python programming. Join Ahmed to unlock the wonders of coding and elevate your skills to new heights!
 
@@ -108,6 +108,6 @@ If you have any questions, feedback, or need further assistance, feel free to re
 ## Student Testimonials
 Read what students are saying about my tutoring services on my blog and the following platforms:
 
-Blog post: [Global Testimonials](https://elmalla.info/blog/48)
-TeacherOn: [Ahmed's Profile on TeacherOn](https://www.teacheron.com/tutor-profile/6ZTs?r=6ZTs)
-Superprof: [Ahmed's Profile on Superprof](https://www.superprof.com.my/ir/26571560-8c328)
+- **Blog post**: [Global Testimonials](https://elmalla.info/blog/48)
+- **TeacherOn**: [Ahmed's Profile on TeacherOn](https://www.teacheron.com/tutor-profile/6ZTs?r=6ZTs)
+- **Superprof**: [Ahmed's Profile on Superprof](https://www.superprof.com.my/ir/26571560-8c328)
