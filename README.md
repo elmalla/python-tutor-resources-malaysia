@@ -47,7 +47,7 @@ The willingness to adjust the lesson speed based on the learner's comfort and pa
 
 #### f) Homework Solutions Posting (FB)
 
-- Homework Solutions: [View on Facebook](#)
+- Homework Solutions: [FB for posting ](www.facebook.com/igcseCStutor/posts/pfbid02FSV8QFAk8sUBCaMGsKH7WcXB52XJbK72zP8gDQSu1PxvCweW3Ksev48sfRACe9PUl)
 
 ### Class 2 (6 Jan 24)
 
@@ -66,24 +66,24 @@ Pair programming, where one person writes the code and the other navigates, is i
 
 #### b) Video (Saturday)
 
-- Part 1: Maximizing Code Efficiency: Unveiling the Power of Computational Thinking in Python [](#)
-- Part 2: [Mastering Computational Thinking: Simplifying Code with Decomposition and Strategic Planning](#)
+- Part 1: [Maximizing Code Efficiency: Unveiling the Power of Computational Thinking in Python](youtu.be/c7KXnzcj3TU)
+- Part 2: [Mastering Computational Thinking: Simplifying Code with Decomposition and Strategic Planning](youtu.be/bhv2qJCM89o)
 
 #### c) Files
 
-- Class Slides: [Download](#)
+- Class Slides: [Download](drive.google.com/file/d/17V_jWnD74WGoJ4CkUSEHu7ti38L_pnrf/view?usp=drive_link)
 
 #### d) Class Code
 
-- Python Code: [View Code](#)
+- Python Code: [View Code](replit.com/@AhmedElmalla/Python-GsinYeo#Class%202.py)
 
 #### e) Exercises
 
-- Exercises: [Download replit.com/@AhmedElmalla/Python-GsinYeo#Class%202%20-%20Exercise.py](#)
+- Exercises: [Download](replit.com/@AhmedElmalla/Python-GsinYeo#Class%202%20-%20Exercise.py)
 
 #### f) Homework Solutions Posting (FB)
 
-- Homework Solutions: View on Facebook[www.facebook.com/igcseCStutor/posts/pfbid02FSV8QFAk8sUBCaMGsKH7WcXB52XJbK72zP8gDQSu1PxvCweW3Ksev48sfRACe9PUl](#)
+- Homework Solutions: [FB for posting ](www.facebook.com/igcseCStutor/posts/pfbid02FSV8QFAk8sUBCaMGsKH7WcXB52XJbK72zP8gDQSu1PxvCweW3Ksev48sfRACe9PUl)
 
 
 ## Additional Resources
@@ -92,8 +92,8 @@ The remaining class resources can be found on the following blog post: Class Res
 
 For more tutorials, tips, and in-depth explanations, check out my YouTube channel and blog:
 
-- **YouTube Channel**: [https://www.youtube.com/@tutorAL9618](#)
-- **Blog**: [https://elmalla.info/admin/blog/84](#)
+- **YouTube Channel**: [Computer Tutor in Malaysia](https://www.youtube.com/@tutorAL9618)
+- **Blog**: [CS Tutor Malaysia ](https://elmalla.info/blog/1)
 
 
 ## About Your Tutor
@@ -108,6 +108,6 @@ If you have any questions, feedback, or need further assistance, feel free to re
 ## Student Testimonials
 Read what students are saying about my tutoring services on my blog and the following platforms:
 
-Blog post: [https"//elmalla.info/blog/48]
-TeacherOn: Ahmed's Profile on TeacherOn [https://www.teacheron.com/tutor-profile/6ZTs?r=6ZTs]
-Superprof: Ahmed's Profile on Superprof [https://www.superprof.com.my/ir/26571560-8c328]
+Blog post: [Global Testimonials] (https://elmalla.info/blog/48)
+TeacherOn: [Ahmed's Profile on TeacherOn] (https://www.teacheron.com/tutor-profile/6ZTs?r=6ZTs)
+Superprof: [Ahmed's Profile on Superprof] (https://www.superprof.com.my/ir/26571560-8c328)
