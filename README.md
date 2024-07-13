@@ -29,21 +29,21 @@ The willingness to adjust the lesson speed based on the learner's comfort and pa
 
 #### b) Video (Saturday)
 
-- Part 1: [Navigating the Dynamic World of Software Programming: Insights on Learning, Brain Function, and Creativity](#)
-- Part 2: [Python Programming Introduction: Online Compilation, Binary Basics, and Learning Paths](#)
+- Part 1: [Navigating the Dynamic World of Software Programming: Insights on Learning, Brain Function, and Creativity](youtu.be/yt3r1wyY42Y)
+- Part 2: [Python Programming Introduction: Online Compilation, Binary Basics, and Learning Paths](youtu.be/IkSmFCHK_EM)
 
 #### c) Files
 
-- Class Slides: [Download](#)
-- Calculate Age Activity: [Download](#)
+- Class Slides: [Download](drive.google.com/drive/folders/1Lljymcz6UxED6luj31KIadLs5uNxb9Ca?usp=sharing)
+- Calculate Age Activity: [Download](drive.google.com/file/d/13-nP27JH1WLAY-1T2u6sPswrWpt1mS6t/view?usp=drive_link)
 
 #### d) Class Code
 
-- Python Code: [View Code](#)
+- Python Code: [View Code](replit.com/@AhmedElmalla/Python-GsinYeo#Class%201.py)
 
 #### e) Exercises
 
-- Exercises: [Download](#)
+- Exercises: [Download](drive.google.com/drive/folders/14masrbwK-dqg32cEu5CAtzWmmGOB3Oeh?usp=drive_link)
 
 #### f) Homework Solutions Posting (FB)
 
@@ -108,6 +108,6 @@ If you have any questions, feedback, or need further assistance, feel free to re
 ## Student Testimonials
 Read what students are saying about my tutoring services on my blog and the following platforms:
 
-Blog post: [Global Testimonials] (https://elmalla.info/blog/48)
-TeacherOn: [Ahmed's Profile on TeacherOn] (https://www.teacheron.com/tutor-profile/6ZTs?r=6ZTs)
-Superprof: [Ahmed's Profile on Superprof] (https://www.superprof.com.my/ir/26571560-8c328)
+Blog post: [Global Testimonials](https://elmalla.info/blog/48)
+TeacherOn: [Ahmed's Profile on TeacherOn](https://www.teacheron.com/tutor-profile/6ZTs?r=6ZTs)
+Superprof: [Ahmed's Profile on Superprof](https://www.superprof.com.my/ir/26571560-8c328)
