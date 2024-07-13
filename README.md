@@ -1,10 +1,12 @@
-# Python Tutor Resources Malaysia
+# Python Tutor Resources Malaysia 
 
-Welcome to the **Python Tutor Resources Malaysia** repository! This repository provides students with valuable learning materials, including slides and exercises, for mastering Python programming, Advanced Placement Computer Science (APCS), and International Baccalaureate Computer Science (IBCS).
+Welcome to the **Python Tutor Resources Malaysia** repository! 
+This repository provides students with valuable learning materials, including slides and exercises, for mastering Python programming, SQl, Databases and little intro 
+about computer science.
 
-## Resources for Students from South Korea
+## Class Resources
 
-### Class 1 (30 Dec 23):
+### Class 1 (30 Dec 23)
 
 #### a) Class Summary
 
@@ -25,24 +27,76 @@ The difference between compilers and interpreters – compilers create an execut
 An example of Python code with user input and arithmetic operations, demonstrating the need to convert strings to integers for mathematical operations.
 The willingness to adjust the lesson speed based on the learner's comfort and pace.
 
-#### b) Video (Saturday):
+#### b) Video (Saturday)
 
-- [Part 1: Navigating the Dynamic World of Software Programming: Insights on Learning, Brain Function, and Creativity](https://elmalla.info/admin/blog/84#part1)
-- [Part 2: Python Programming Introduction: Online Compilation, Binary Basics, and Learning Paths](https://elmalla.info/admin/blog/84#part2)
+- Part 1: [Navigating the Dynamic World of Software Programming: Insights on Learning, Brain Function, and Creativity](#)
+- Part 2: [Python Programming Introduction: Online Compilation, Binary Basics, and Learning Paths](#)
 
-#### d) Files:
+#### c) Files
 
-- [Class Slides](https://elmalla.info/admin/blog/84#slides)
-- [Calculate age activity](https://elmalla.info/admin/blog/84#calculate-age-activity)
+- Class Slides: [Download](#)
+- Calculate Age Activity: [Download](#)
 
-#### e) Class Code:
+#### d) Class Code
 
-- [Python](https://elmalla.info/admin/blog/84#python)
+- Python Code: [View Code](#)
 
-#### f) Exercises:
+#### e) Exercises
 
-- [Here](https://elmalla.info/admin/blog/84#exercises)
+- Exercises: [Download](#)
 
-#### g) Homework Solutions Posting (FB):
+#### f) Homework Solutions Posting (FB)
 
-- [Here](https://elmalla.info/admin/blog/84#homework-solutions)
+- Homework Solutions: [View on Facebook](#)
+
+### Class 2 (6 Jan 24)
+
+#### a) Class Summary
+
+Discover the advantages of posting exercise solutions on a centralized Facebook page, ensuring easy access, notifications, and organized tracking. Dive into the realm of computational thinking, understanding its significance in problem-solving and programming. Gain insights into optimizing Python code for efficiency, including creating functions, using data types, and embracing the power of simplicity for easier maintenance. Explore real-world scenarios illustrating the impact of code design on system performance. Elevate your coding skills by delving into the intricacies of memory management and resource optimization.
+
+The tutor discusses the importance of writing simple and clear code rather than complex and hard-to-understand code.
+It introduces the concept of computational thinking, specifically focusing on algorithmic thinking and decomposition.
+Decomposition involves breaking down a problem into smaller parts, making it easier to solve and understand.
+The example of developing an animal guessing game is used to illustrate how decomposition works in practice.
+The tutor touches on the significance of structure diagrams and planning in programming projects.
+The importance of decomposition is emphasized for both individual coders and programming teams.
+The tutor briefly mentions the use of the datetime library in Python to get the current year in a program.
+Pair programming, where one person writes the code and the other navigates, is introduced as a collaborative approach.
+
+#### b) Video (Saturday)
+
+- Part 1: [Maximizing Code Efficiency: Unveiling the Power of Computational Thinking in Python](#)
+- Part 2: [Mastering Computational Thinking: Simplifying Code with Decomposition and Strategic Planning](#)
+
+#### c) Files
+
+- Class Slides: [Download](#)
+
+#### d) Class Code
+
+- Python Code: [View Code](#)
+
+#### e) Exercises
+
+- Exercises: [Download](#)
+
+#### f) Homework Solutions Posting (FB)
+
+- Homework Solutions: [View on Facebook](#)
+
+---
+
+For more tutorials, tips, and in-depth explanations, check out my YouTube channel and blog:
+
+- **YouTube Channel**: [Your YouTube Channel Name](#)
+- **Blog**: [Your Blog Name](#)
+
+
+##About Your Tutor
+
+Meet Ahmed: Malaysia's High-End Computer Science Tutor!
+
+With over 19 years of experience and certifications from Stanford, Alberta, Pennsylvania, and California Irvine universities, Ahmed is dedicated to helping students master IGCSE & AP exams and excel in Python programming. Join Ahmed to unlock the wonders of coding and elevate your skills to new heights!
+
+If you have any questions, feedback, or need further assistance, feel free to reach out. Happy learning!
