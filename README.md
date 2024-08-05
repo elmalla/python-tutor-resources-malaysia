@@ -1,8 +1,8 @@
-# Python Tutor Resources Malaysia 
+# Python Tutor and Computer Science Tutoring in South Korea: Resources and Testimonials
 
-Welcome to the **Python Tutor Resources Malaysia** repository! 
-This repository provides students with valuable learning materials, including slides and exercises, for mastering Python programming, SQl, Databases and little intro 
-about computer science.
+Discover top-notch Python, SQL and Database tutoring in South Korea
+Get access to high-quality learning materials, including Python programming exercises and Java coding tutorials. Learn from an experienced tutor with over 19 years in software programming. Join our classes to excel in your coding skills and achieve academic success.
+
 
 ## Class Resources
 
